@@ -7,4 +7,4 @@
 
 [![Steven Shlimoon's github stats](https://github-readme-stats.vercel.app/api?username=shli3&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shli3&hide=ASP,ShaderLab,HLSL&langs_count=5&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shli3&hide=ASP&langs_count=5&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
