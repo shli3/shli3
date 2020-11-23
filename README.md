@@ -5,4 +5,4 @@
 - 💬 Ask me about almost anything (no guarantee I'll answer though 😉)
 - ⚡ Fun fact: I like basketball 🏀
 
-[![Steven Shlimoon's github stats](https://github-readme-stats.vercel.app/api?username=shli3&count_private=true&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+[![Steven Shlimoon's github stats](https://github-readme-stats.vercel.app/api?username=shli3&count_private=true&show_icons=true&title_color=#C50303)](https://github.com/anuraghazra/github-readme-stats)
