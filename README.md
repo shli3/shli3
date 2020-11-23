@@ -6,3 +6,6 @@
 - ⚡ Fun fact: I like basketball 🏀
 
 [![Steven Shlimoon's github stats](https://github-readme-stats.vercel.app/api?username=shli3&count_private=true&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shli3&show_owner=true&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
