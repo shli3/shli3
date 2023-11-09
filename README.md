@@ -1,7 +1,7 @@
 ### Hello World 👋🌏
 
 - 🔭 I’m currently working on multiple projects to expand my knowledge and maybe even learn new languages and frameworks
-- 🌱 I’m still a university student learning computer science, nearing the end of my degree
+- 🌱 I’m a university graduate, working with CIBC Capital Markets
 - 💬 Ask me about almost anything (no guarantee I'll answer though 😉)
 - ⚡ Fun fact: I like basketball 🏀
 
